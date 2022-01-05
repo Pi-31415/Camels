@@ -16,3 +16,7 @@ Uses the fence model from https://assetstore.unity.com/packages/3d/props/exterio
 
 Then set up Mix Reality Toolkit from https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/?view=mrtkunity-2021-05
 
+## Packaging App and Deployment
+
+Follow this [Tutorial](http://lucyestela.com/dev/unity/from-unity-to-hololens/)
+
